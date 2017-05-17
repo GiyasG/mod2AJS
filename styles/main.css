@@ -6,6 +6,7 @@
   li {
     margin-bottom: 7px;
     font-size: 1.2em;
+    list-style: none;
   }
   li > button {
     margin-left: 6px;
